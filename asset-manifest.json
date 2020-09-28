@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/matsudasan/Folder-Tree/static/css/main.20c46bf0.chunk.css",
+    "main.js": "/matsudasan/Folder-Tree/static/js/main.1179430d.chunk.js",
+    "main.js.map": "/matsudasan/Folder-Tree/static/js/main.1179430d.chunk.js.map",
+    "runtime-main.js": "/matsudasan/Folder-Tree/static/js/runtime-main.64d74924.js",
+    "runtime-main.js.map": "/matsudasan/Folder-Tree/static/js/runtime-main.64d74924.js.map",
+    "static/js/2.95f1a79c.chunk.js": "/matsudasan/Folder-Tree/static/js/2.95f1a79c.chunk.js",
+    "static/js/2.95f1a79c.chunk.js.map": "/matsudasan/Folder-Tree/static/js/2.95f1a79c.chunk.js.map",
+    "index.html": "/matsudasan/Folder-Tree/index.html",
+    "precache-manifest.22c40ffe2f069c09e5fa10d0db944fc3.js": "/matsudasan/Folder-Tree/precache-manifest.22c40ffe2f069c09e5fa10d0db944fc3.js",
+    "service-worker.js": "/matsudasan/Folder-Tree/service-worker.js",
+    "static/css/main.20c46bf0.chunk.css.map": "/matsudasan/Folder-Tree/static/css/main.20c46bf0.chunk.css.map",
+    "static/js/2.95f1a79c.chunk.js.LICENSE.txt": "/matsudasan/Folder-Tree/static/js/2.95f1a79c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64d74924.js",
+    "static/js/2.95f1a79c.chunk.js",
+    "static/css/main.20c46bf0.chunk.css",
+    "static/js/main.1179430d.chunk.js"
+  ]
+}
